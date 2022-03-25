@@ -1,0 +1,19 @@
+.card {
+height: 200px;
+margin-top: 24px;
+padding-top: 40px;
+background: #FFFFFF;
+box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+border-radius: 4px;
+border: none;
+border-top-left-radius: 4px;
+border-bottom-left-radius: 4px;
+/* border-left: 4px solid #E63950;; */
+}
+.col{
+    margin-top: 20px;
+}
+
+.services {
+    margin-top: 0px;
+}
